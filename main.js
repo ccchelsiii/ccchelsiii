@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 const settings = {
     particles: {
     length: 500, // maximum amount of particles
@@ -8,6 +9,22 @@ const settings = {
     size: 30, // particle size in pixels
 },
 };
+=======
+    const settings = {
+        particles: {
+            length: 500, // maximum amount of particles
+            duration: 2, // particle duration in sec
+            velocity: 100, // particle velocity in pixels/sec
+            effect: -0.75, // play with this for a nice effect
+            size: 30, // particle size in pixels
+        },
+        words: {
+            list: ["miel", "chelseah", "hahahaha", "mieeeeel", "ccchelsiii_", "ice bear", "carabonara", "pink", "miely", "milesueee", "milesssss"], // List of words
+            maxDuration: 5, // Maximum floating time in seconds
+            maxWords: 4 // Maximum number of words on screen
+        }
+    };
+>>>>>>> 34ca1b0de75a850d1fc8feb7e045a240cd3be57e
 
     (function() {
     let b = 0;
