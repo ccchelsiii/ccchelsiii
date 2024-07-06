@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             size: 30, // particle size in pixels
         },
         words: {
-            list: ["miel", "chelseah", "miss u", "hahahaha", "mieeeeel", "ccchelsiii_", "ice bear", "carabonara", "pink", "miely", "milesueee", "milesssss"], // List of words
+            list: ["miel", "chelseah", "hahahaha", "mieeeeel", "ccchelsiii_", "ice bear", "carabonara", "pink", "miely", "milesueee", "milesssss"], // List of words
             maxDuration: 5, // Maximum floating time in seconds
             maxWords: 4 // Maximum number of words on screen
         }
